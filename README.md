@@ -1,0 +1,3 @@
+
+填写自己的apikey，安装所需python库
+使用时新建一个images文件夹，将图片放在images即可
